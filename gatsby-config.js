@@ -4,7 +4,7 @@ const configuration = {
   // the name of your website
   title: 'David Y. Soards',
   // the description of the website (eg. what shows on Google)
-  description: "David Y. Soards's blog",
+  description: "David Y. Soards' blog",
   // a short bio shown at the bottom of your blog posts
   // It should complete the sentence: Written by David Y. Soards ...
   shortBio: '',
@@ -18,10 +18,10 @@ const configuration = {
     // leave the social media you do not want to appear as empty strings
     twitter: 'ninjasoards',
     medium: '@davidysoards',
-    facebook: '',
-    github: '',
-    linkedin: '',
-    instagram: '',
+    facebook: 'ninjasoards',
+    github: 'davidysoards',
+    linkedin: 'davidysoards',
+    instagram: 'ninjasoards',
   },
 }
 
